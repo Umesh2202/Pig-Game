@@ -10,7 +10,7 @@ const diceEl = document.querySelector('.dice');
 const btnNew = document.querySelector('.btn--new');
 const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
-const winScore = 20;
+const winScore = 100;
 
 const score = [0, 0];
 let currentScore = 0;
